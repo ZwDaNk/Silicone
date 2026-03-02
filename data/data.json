@@ -3,7 +3,7 @@
     "name": "Watrbx",
     "version": "2016E",
     "icon": "https://files.catbox.moe/vbuwrq.png",
-    "url": "https://watrbx.wtf",
+    "url": "https://watrbx.wtf?refer=viad",
     "discord_url": "https://discord.gg/watrbx-1157311001507676332",
     "description": "A early 2016 revival made by watrabi focusing on accuracy with QoL features such as a CoreScript switcher.",
     "status": "verified"
@@ -18,6 +18,24 @@
     "status": "verified"
   },
   {
+    "name": "Alphaland",
+    "version": "2016E",
+    "icon": "https://files.catbox.moe/9mycqv.png",
+    "url": "https://alphaland.cc",
+    "discord_url": "https://discord.gg/bPeAB9FPb9",
+    "description": "A work in progress 2016 revival owned by Astrologies brought back officially.",
+    "status": "verified"
+  },
+    {
+    "name": "Xblox",
+    "version": "2016E",
+    "icon": "https://files.catbox.moe/h4pxad.png",
+    "url": "https://xspy.dev",
+    "discord_url": "https://discord.gg/Dh5tpkhtRB",
+    "description": "A work in progress 2016 revival owned by Xspy.",
+    "status": "verified"
+  },
+  {
     "name": "Lunarix",
     "version": "2012-2021",
     "icon": "https://files.catbox.moe/xn3al2.png",
@@ -25,15 +43,6 @@
     "discord_url": "https://discord.gg/RV4ym3vYkG",
     "description": "A work-in-progress revival made by SkylerClock.",
     "status": "unverified"
-  },
-  {
-    "name": "Syntax 2",
-    "version": "2012L, 2014M, 2016L, 2018L, 2020L, 2021E, 2023E",
-    "icon": "https://files.catbox.moe/hked0a.png",
-    "url": "https://synt2x.xyz",
-    "discord_url": "https://discord.gg/synt2x-xyz-1181347683257040977",
-    "description": "A revival owned by Danyal Assi. Has been breached before and has a anticheat which is a data stealer, deal with caution.",
-    "status": "danger"
   },
   {
     "name": "Austiblox",
@@ -59,25 +68,7 @@
     "icon": "https://files.catbox.moe/5q0zze.png",
     "url": "https://strrev.com",
     "discord_url": null,
-    "description": "A highly modified Economy Simulator vibe-coded revival owned by Voltaire.",
-    "status": "unverified"
-  },
-  {
-    "name": "Hexagon",
-    "version": "2012L, 2013L, 2014S, 2015M",
-    "icon": "https://files.catbox.moe/7z9zev.png",
-    "url": "https://hexagon.pw",
-    "discord_url": null,
-    "description": "A gatekept revival owned by sushi. Highly mixed bag, as the owner has been speculated to leak IPs before with a very questionable administration team aswell. Formerly Meteorite.",
-    "status": "unverified"
-  },
-  {
-    "name": "Alphaland",
-    "version": "2016E",
-    "icon": "https://files.catbox.moe/9mycqv.png",
-    "url": "https://alphaland.cc",
-    "discord_url": "https://discord.gg/bPeAB9FPb9",
-    "description": "A work in progress 2016 revival owned by Astrologies.",
+    "description": "A vibe-coded Economy Simulator revival owned by Voltaire.",
     "status": "unverified"
   },
   {
@@ -124,6 +115,24 @@
     "discord_url": null,
     "description": "A modified BubbaBlox-based revival.",
     "status": "unverified"
+  },
+  {
+    "name": "Syntax 2",
+    "version": "2012L, 2014M, 2016L, 2018L, 2020L, 2021E, 2023E",
+    "icon": "https://files.catbox.moe/hked0a.png",
+    "url": "https://synt2x.xyz",
+    "discord_url": "https://discord.gg/synt2x-xyz-1181347683257040977",
+    "description": "A revival owned by Danyal Assi. Has been breached before and has a anticheat which is a data stealer, deal with caution.",
+    "status": "danger"
+  },
+  {
+    "name": "Hexagon",
+    "version": "2012L, 2013L, 2014S, 2015M",
+    "icon": "https://files.catbox.moe/7z9zev.png",
+    "url": "https://hexagon.pw",
+    "discord_url": null,
+    "description": "A gatekept revival owned by sushi. Staff is very questionable, as the former owner had leaked IPs of those they didn't like and also the staff have questionable social profiles. Formerly known as Meteorite.",
+    "status": "danger"
   },
   {
     "name": "Korone",
