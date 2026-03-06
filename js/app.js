@@ -23,6 +23,7 @@ function confirmDanger(url) {
 }
 
 /* lormex lormex lormex.. lormex support by sloppey */
+/* hey mediteXSSt look at this: https://files.catbox.moe/zyxxpa.png lormex isnt even a revival list kek its a ccu tracker */
 async function getLormex() {
   let revivals = {};
 
